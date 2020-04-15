@@ -80,7 +80,7 @@ flags = [
 '/usr/include/x86_64-linux-gnu',
 '-isystem',
 '/usr/local/include',
-'/home/wy/linux_4'
+'/home/wy/usr_src/linux_4'
 ]
 
 
